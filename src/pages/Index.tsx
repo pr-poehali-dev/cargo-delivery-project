@@ -79,8 +79,7 @@ const Index = () => {
                 size="lg"
                 className="bg-orange-500 hover:bg-orange-600 text-white px-8 py-3"
               >
-                <Icon name="Phone" size={20} className="mr-2" />
-                Заказать перевозку
+                Заказать перевозку +79497178328
               </Button>
               <Button
                 size="lg"
