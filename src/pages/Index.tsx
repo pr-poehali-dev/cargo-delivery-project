@@ -58,7 +58,7 @@ const Index = () => {
       </header>
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-br from-blue-50 to-orange-50 py-20">
+      <section className="from-blue-50 to-orange-50 py-20 bg-transparent">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
             <div className="mb-6">
