@@ -435,7 +435,7 @@ const Index = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>+7 (XXX) XXX-XX-XX</li>
+                <li>+7 (949) 717-83-28</li>
                 <li>г. Мариуполь</li>
                 <li>Работаем 24/7</li>
               </ul>
